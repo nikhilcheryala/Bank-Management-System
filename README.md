@@ -102,7 +102,9 @@ Deposit successful! New Balance: 7000.50
 - **Provide an interactive GUI using a web or desktop application**: Enhance the user experience by creating a graphical user interface (GUI) for easier interaction, either through a web-based or desktop application framework (e
 
 
-##License
-This project is open-source and available under the MIT License.
+## License
 
-Just replace the repository URL (`https://github.com/yourusername/bank-management-system.git`)
+This project is open-source and available under the [MIT License](https://opensource.org/licenses/MIT).
+
+
+Just replace the repository URL (`https://github.com/nikhilcheryala/Bank-Management-System`)
