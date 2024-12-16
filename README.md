@@ -91,13 +91,18 @@ Enter your choice: 3
 Enter the Account No: 101
 Enter the Amount you want to deposit: 2000
 Deposit successful! New Balance: 7000.50
-#Future Enhancements
-Implement encryption for storing passwords.
-Add functionality to update user details.
-Introduce role-based access control (e.g., admin functionalities).
-Provide an interactive GUI using a web or desktop application.
+## Future Enhancements
 
-#License
+- **Implement encryption for storing passwords**: Improve security by encrypting passwords before storing them in the file to prevent plain text storage.
+  
+- **Add functionality to update user details**: Allow users to update their account details (such as name, phone number, gender, etc.) after account creation.
+
+- **Introduce role-based access control (e.g., admin functionalities)**: Implement different user roles (e.g., user and admin) to provide additional functionalities for admins, such as managing accounts and viewing all account details.
+
+- **Provide an interactive GUI using a web or desktop application**: Enhance the user experience by creating a graphical user interface (GUI) for easier interaction, either through a web-based or desktop application framework (e
+
+
+##License
 This project is open-source and available under the MIT License.
 
 Just replace the repository URL (`https://github.com/yourusername/bank-management-system.git`)
